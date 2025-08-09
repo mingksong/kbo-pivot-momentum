@@ -5,6 +5,7 @@
 # 상세 문서
 - [알기쉬운 설명](MOMENTUM_CHART_PUBLIC.md)
 - [기술 문서](MOMENTUM_CHART_TECHNICAL.md)
+- [도르마무 인덱스 - 모멘텀 추출 코어 문서](DORMAMMU_CONCEPT.md)
 
 # 화면 예시
 ![image](main.png)
