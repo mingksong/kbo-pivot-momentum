@@ -4,5 +4,5 @@
 
 # 화면 예시
 ![image](main.png)
-[[table1.png]]
-[[table2.png]]
+![image2](table1.png)
+![image3](table2.png)
